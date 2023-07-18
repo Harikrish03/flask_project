@@ -14,27 +14,36 @@ Contains 4 tables
     
 Login details :
 -----------------------
-Username : prem
-Password : prem123
+   Username : hari
+   Password : hari13
 
 Project Screenshorts :
 ----------------------------
 
 1. Login page :
-    ![image](https://github.com/Harikrish03/flask_project/assets/90674350/44f64d5e-a403-4d77-996d-60ba91b9439b)
+
+    ![image](https://github.com/Harikrish03/flask_project/assets/90674350/4fb90850-55b1-4532-aac0-faaffbd94f5d)
+
    
 2. Register page :
 
-   ![image](https://github.com/Harikrish03/flask_project/assets/90674350/d46b6b7b-c72c-4c5d-9abf-b9f777257d68)
+     ![image](https://github.com/Harikrish03/flask_project/assets/90674350/cc397c6e-a20c-4f9e-aee9-6b0bd5df98f6)
+
    
 4. Dashboard :
 
-   ![image](https://github.com/Harikrish03/flask_project/assets/90674350/55770257-65a8-44da-86eb-d8c20f1280df)
+   ![image](https://github.com/Harikrish03/flask_project/assets/90674350/4aba24f6-9d74-4bf5-aff2-b4fc5c7d6bbf)
 
 5. Add user :
 
-   ![image](https://github.com/Harikrish03/flask_project/assets/90674350/5e44df26-02d4-44bb-a4f2-7817e661c711)
+   ![image](https://github.com/Harikrish03/flask_project/assets/90674350/62cd5da3-5cf0-4f0f-a71d-33e6590dedf6)
 
+6. Books table :
 
+   ![image](https://github.com/Harikrish03/flask_project/assets/90674350/3ea94571-094e-4ae2-9a81-2b0d2cbd0b27)
+   
+8. Edit page
+
+   ![image](https://github.com/Harikrish03/flask_project/assets/90674350/78e6da80-e459-404c-b9a5-892622bce6da)
 
 
